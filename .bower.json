@@ -1,0 +1,28 @@
+{
+  "name": "jquery-ui-droppable-draggable",
+  "homepage": "https://github.com/agraciakuvut/jquery-ui-draggable-droppable",
+  "authors": [
+    "Andrés Gracia <agracia@kuvut.com>"
+  ],
+  "description": "Contains only jquery-ui draggable and droppable components",
+  "main": "./dist/jquery-ui-droppable.js",
+  "devDependencies": {
+    "jquery-ui": "~1.11.4"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "draggable",
+    "droppable"
+  ],
+  "license": "MIT",
+  "_release": "725acb73e9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "725acb73e9edd1f6dfd5ea953320f98b085d09ba"
+  },
+  "_source": "https://github.com/agraciakuvut/jquery-ui-draggable-droppable.git",
+  "_target": "*",
+  "_originalSource": "jquery-ui-droppable-draggable"
+}
